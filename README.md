@@ -1,2 +1,2 @@
-# income-podium-doc-extractor-LOS-294
-LOAN Organisation System (this is doing fetching all the parameter list from parameter and secret Manager as well)
+# income-podium-doc-extractor
+income-podium-doc-extractor to store vendor specific PDF files to S3 bucket
